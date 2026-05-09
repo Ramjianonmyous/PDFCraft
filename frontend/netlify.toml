@@ -11,6 +11,6 @@
 # API proxy: redirect /api requests to your backend
 [[redirects]]
   from = "/api/*"
-  to = "https://pdfcraft-production-e073.up.railway.app/api/:splat"
+  to = "https://pdfcraft-production-3bc0.up.railway.app/api/:splat"
   status = 200
   force = true
