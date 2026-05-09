@@ -363,5 +363,4 @@ Everything you need is in the files:
 - Example .env files
 
 **You're all set! Happy coding! 🎨**
-#   P D F C r a f t  
- 
+#
